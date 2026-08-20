@@ -1,6 +1,6 @@
 # Richard Slater
 
-I started writing code on a second-hand ZX Spectrum before I was 10, then moved to Visual Basic on Windows. At college I learned Turbo Pascal and Delphi. At university I worked with Ada and Java. Along the way, I have also used C, PHP, SQL, HTML, CSS, and a few other technologies.
+I started writing code on a second-hand ZX Spectrum before I was 10, then moved to Visual Basic on Windows. At college I learned Turbo Pascal and Delphi. At university I worked with Ada and Java. Along the way, I have also used C, PHP, SQL, HTML, CSS, and a few other technologies. Professionally I tend to use Go, Rust, C# and Python.
 
 ## What I enjoy
 
